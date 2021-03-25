@@ -1,5 +1,9 @@
 # 2.2 Spring Boot Secure API
 
+## Credenciales: 
+- **Correo:** test@mail
+- **Clave:** pass
+
 **Goals**
 
 * Implement a secure API using the JSON Web Token open standard (RFC 7519). 
